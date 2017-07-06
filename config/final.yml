@@ -1,0 +1,6 @@
+---
+final_name: nfs
+blobstore:
+  provider: local
+  options:
+    blobstore_path: /tmp/nfs
